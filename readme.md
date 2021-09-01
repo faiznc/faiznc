@@ -3,7 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiznc" alt="faiznc" /> </p>
 
 - 👨‍💻 I’m currently focus in Software Development, QA Automation, Microcontrollers, IoT, and its integration.
-- 🖥️ I'm usually coding with Python with C++ in Arduino
+- 🖥️ I'm usually coding with Python and C++ on Arduino
+- ⚡ Hands on experience with Embedded System (ESP32, NodeMCU, Arduino Uno, Arduino Mini, Sensors, etc.)
 
 
 ### Connect with me:

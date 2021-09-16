@@ -9,8 +9,13 @@
 
 ### Connect with me:
 
-<img align="left" alt="https://github.com/faiznc" height="30" width="40" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="https://www.linkedin.com/in/faiz-noerdiyan-cesara-1694a51b6/" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://github.com/faiznc">
+    <img align="left" alt="https://github.com/faiznc" height="30" width="40" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
+</a>
+
+<a href="https://www.linkedin.com/in/faiz-noerdiyan-cesara-1694a51b6/">
+  <img align="left" alt="https://www.linkedin.com/in/faiz-noerdiyan-cesara-1694a51b6/" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <br /><br />
 

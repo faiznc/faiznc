@@ -1,5 +1,5 @@
 ### Hi there, I'm Faiz Noerdiyan Cesara 👋
-🖥️ Currently I'm a Software QA Automation at [Formulatrix Indonesia](https://formulatrix.com/)
+🖥️ Currently I'm a Software QA Automation at [Formulatrix](https://formulatrix.com/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiznc" alt="faiznc" /> </p>
 

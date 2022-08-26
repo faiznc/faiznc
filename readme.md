@@ -6,7 +6,7 @@
 - 👨‍💻 I’m currently focus in Software Development, QA Automation, Microcontrollers, IoT, and its integration.
 - 🖥️ I'm usually coding with Java and Python on Desktop and C++ on Microcontrollers
 - 📍 Practical experience with Software QA Automation tools (Selenium, Testlink)
-- ⚡ Hands on experience with Embedded System (ESP32, NodeMCU, Arduino Uno, Arduino Mini, Sensors, etc.)
+- ⚡ Hands on experience with Embedded System (Raspberry Pi, ESP32, NodeMCU, Arduino Uno, Arduino Mini, Sensors, etc.)
 
 
 ### Connect with me:
